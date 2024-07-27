@@ -1,0 +1,61 @@
+{
+  "mainAssemblyName": "GithubTest",
+  "resources": {
+    "hash": "sha256-DfGRbt/+Kia2pREi4KejRhI9OTXqJ9BFWOGLDGXBp+w=",
+    "jsModuleNative": {
+      "dotnet.native.9.0.0-preview.4.24266.19.t59jw9lfrk.js": "sha256-EOi0mh4a+lGCYqaLqIIocyqNF8xQdnYOwHx25bX598g="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.9.0.0-preview.4.24266.19.u1cmifzni0.js": "sha256-jH8EddctmEXnUz2kJXfTgVznhB1Cmy838mSIydJjfbk="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-Z4aq5AgdpoXqgSdGpIre21P/zyyVUS7U97tgbsytQO0="
+    },
+    "icu": {
+      "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
+      "icudt_EFIGS.dat": "sha256-8fItetYY8kQ0ww6oxwTLiT3oXlBwHKumbeP2pRF4yTc=",
+      "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
+    },
+    "assembly": {
+      "GithubTest.wasm": "sha256-ZbTeGVaSd7Ea4nB0A2WeRBhReTlRfPts3ZOreu7zeqA=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-CD5j5e+O05Shpu+xcHzZbRFOg3uzug5su67pjXJaZvo=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-hQ1JmAL8PaIm+eIa/rLTsAuJeR+azKbkUl2XtOLWVu0=",
+      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-9ECPCRsZmgKj9wxoBedk9T3YYxADJXibGlnWMitzhsA=",
+      "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-C3SdIQb4MpoBDb+9HjOzoGTWcbzU0cQ+CC2KuIl3p7g=",
+      "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Ft293O/A6RPvGIzOv9xXBk60ICRQjCie+KUmfB7Ot2Q=",
+      "Microsoft.Extensions.Configuration.wasm": "sha256-d6BCXM55ZrHqN1fqiLBRsPd1qu4xapMlgobjlFzctV8=",
+      "Microsoft.Extensions.DependencyInjection.Abstractions.wasm": "sha256-2i4vDk8naU+TbWEYQbKuIyyTvYcvjygOvR+jyov7pY4=",
+      "Microsoft.Extensions.DependencyInjection.wasm": "sha256-SeBKaAWR7Zsik/old6hrZNZf1AnzV/PiXR/YG2huGOg=",
+      "Microsoft.Extensions.Logging.Abstractions.wasm": "sha256-K2/BjA7jDAX0XxFabVMJo636R+ewEZDnibTH3JBnWqs=",
+      "Microsoft.Extensions.Logging.wasm": "sha256-tg6Pvb+HfrQ6mmvqJkbKJ38/kYleuE59gB/wg2UqCKY=",
+      "Microsoft.Extensions.Options.wasm": "sha256-WTQL2zCwcqVguM3I0HdegA7V+jFlYgOvMzcV5g1c8bo=",
+      "Microsoft.Extensions.Primitives.wasm": "sha256-a7TNWSXNYQqi4KFl+2R7hlZDhs+a1uiwh9QJu6+ClZI=",
+      "Microsoft.JSInterop.wasm": "sha256-0MbstFRHo8ECs7AYUrMkBgxLjQT94W5Q8h4sO4dBRSU=",
+      "Microsoft.JSInterop.WebAssembly.wasm": "sha256-tcvYjICj1cLFPIb2/eABlMbr0cZLQLXHMAmfV/3YQD0=",
+      "System.Collections.Concurrent.wasm": "sha256-8yLbaA0nlzXlPTitnsuXqHcekzVrl66QDc+fOa3pv+E=",
+      "System.Collections.wasm": "sha256-llwBnyRhLqk1uwOOLTu2nU+RCvHhIOP0Ru3rEObxBhc=",
+      "System.ComponentModel.wasm": "sha256-ASg15cDYO1ig1IkpZY6tDdUw63e3MtDffWtdm6KHgiA=",
+      "System.Console.wasm": "sha256-uecYbxen0uONtISlnf1Shd62lw705FQ2aocjZvCyy5I=",
+      "System.Diagnostics.DiagnosticSource.wasm": "sha256-RoHhD5jSD2esW2DNdg9cMv6bfB85jpZknCxD0I0zkHQ=",
+      "System.Linq.wasm": "sha256-hFS6tzfTN5bwKaZh2ckc4d44oioQ7Cppno2fEna/gjY=",
+      "System.Memory.wasm": "sha256-+6R9QE+QHVlQon+mxm668bW4ezPxoq/ge10StKXV6qE=",
+      "System.Net.Http.Json.wasm": "sha256-Blb+i/KIrp5Yf14Z9ifxZSAXsfR4Vvp6cUpNdSDsnMU=",
+      "System.Net.Http.wasm": "sha256-6KEMU0QF3RM/Z1x9l4kQJLW+A28h0dFKLnijNSjpqIw=",
+      "System.Net.Primitives.wasm": "sha256-NVb/SgJmrnQztLOHfyCJIAfJrC/ayuS3eJF3XwJpf9g=",
+      "System.Private.CoreLib.wasm": "sha256-46oQhkXHo6e3jjoTmomzsRw6dtzmE2tPMHa5UAu0DSE=",
+      "System.Private.Uri.wasm": "sha256-xz6pQcZKOU7+AJ16q/IjaSpbzZe+jc5rQpOG7b40EdE=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-8t0jzxskCNB5KjfE/5uXHkN92P934ou9lB+es9ExxDM=",
+      "System.Runtime.wasm": "sha256-aYFOOVBVDS/6SFPw9XiiB5y8JFlRdkzLSQxLe9BvDpo=",
+      "System.Text.Encodings.Web.wasm": "sha256-kfsQGlUji7wZy/IDfNVswO6NQh2wHeBKFvU6zJX3QL8=",
+      "System.Text.Json.wasm": "sha256-AryEO3nwa6P4Gj4JrJRS/cmw6CbKkTWd12kN5tUnGHs=",
+      "System.Text.RegularExpressions.wasm": "sha256-K0dcIsAiI7DXIgyBF2tNQddVlKAD/aZmAKP5e9+Qpf0="
+    }
+  },
+  "cacheBootResources": true,
+  "debugLevel": 0,
+  "linkerEnabled": true,
+  "globalizationMode": "sharded",
+  "extensions": {
+    "blazor": {}
+  }
+}
